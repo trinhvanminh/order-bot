@@ -70,6 +70,7 @@ coverage/
 # Streamlit
 ########################################################################
 .streamlit/
+secrets.toml
 lib/streamlit/static
 streamlit-storage
 
